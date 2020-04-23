@@ -1,0 +1,19 @@
+Script started on Sun 16 Feb 2020 06:49:44 PM EST
+]0;briannadrew@loki:~/lab2[?1034h[briannadrew@loki lab2]$ ./Lab2
+[3;J[H[2J[1;31m
+******* WARNING*******
+Missing Filename!!
+Format should be: @loki$ executable argument
+example: @loki$ ./Lab2 item_list_1.txt
+
+[0m]0;briannadrew@loki:~/lab2[briannadrew@loki lab2]$ ./Lab2 itm[Kem_list_5.txt
+[3;J[H[2J[1;31m
+******* WARNING*******
+File: 'item_list_5.txt' does not exist!!
+Format should be: @loki$ executable argument
+example: @loki$ ./Lab2 item_list_1.txt
+
+[0m]0;briannadrew@loki:~/lab2[briannadrew@loki lab2]$ exit
+exit
+
+Script done on Sun 16 Feb 2020 06:50:19 PM EST
